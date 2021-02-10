@@ -1,1 +1,1 @@
-<a href="https://timo.sh/?ref=github-header"><img alt="Social banner for WeiShour" src="https://github.com/weishour/weishour/raw/master/assets/weishour.svg"/></a>
+<a href="https://github.com/weishour/weishour"><img alt="Social banner for WeiShour" src="https://nr-hz-app.oss-cn-hangzhou.aliyuncs.com/weishour.svg"/></a>
